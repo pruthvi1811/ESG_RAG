@@ -1,0 +1,12 @@
+pymupdf4llm
+langchain
+llama-index-embeddings-ollama
+llama-index-llms-ollama 
+langchain_experimental
+langchain-ollama
+chromadb
+langchain-core
+llama-cloud-services
+llama-cloud
+llama-index
+langchain-docling
